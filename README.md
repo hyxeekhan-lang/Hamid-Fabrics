@@ -4,24 +4,9 @@
 
 [Open the live website](https://hamid-fabrics.vercel.app/)
 
-## Website gallery
+## Website screenshot
 
-<p align="center">
-  <img src="images/4.jpg" alt="Rust-red embroidered outfit" width="48%">
-  <img src="images/hero-blue-suit.jpg" alt="Blue Pakistani suit collection" width="48%">
-  <br>
-  <img src="images/hero-magenta-winter.jpg" alt="Magenta winter fashion" width="48%">
-  <img src="images/hero-modest-black.jpg" alt="Black modestwear look" width="48%">
-  <br>
-  <img src="images/20.jpg" alt="Longline modest dress" width="48%">
-  <img src="images/28.jpg" alt="Black abaya style inspiration" width="48%">
-  <br>
-  <img src="images/21.jpg" alt="Pakistani women's fashion product" width="48%">
-  <img src="images/17.jpg" alt="Embroidered outfit detail" width="48%">
-  <br>
-  <img src="images/promo.jpg" alt="Winter collection feature" width="48%">
-  <img src="images/cnew.jpg" alt="New arrivals collection" width="48%">
-</p>
+![Screenshot of the Hamid Fabrics website homepage](images/readme-homepage.png)
 
 ## Project files
 
