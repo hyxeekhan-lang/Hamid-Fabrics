@@ -8,6 +8,16 @@
 
 ![Screenshot of the Hamid Fabrics website homepage](images/readme-homepage.png)
 
+### More website screenshots
+
+<p align="center">
+  <img src="images/readme-collections.png" alt="Hamid Fabrics occasion and collection cards" width="48%">
+  <img src="images/readme-modestwear.png" alt="Hamid Fabrics modestwear feature" width="48%">
+  <br>
+  <img src="images/readme-shop.png" alt="Hamid Fabrics searchable product catalog" width="48%">
+  <img src="images/readme-about.png" alt="Hamid Fabrics founder introduction" width="48%">
+</p>
+
 ## Project files
 
 The main website is split into separate files:
